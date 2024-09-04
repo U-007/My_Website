@@ -17,7 +17,7 @@ const Home = () => {
               I am pursuing bachelors in technology in Computer Science and Engineering with Artificial Intelligence. I have been working in various domains like web development, AI/ML and UI/UX for the past 3 years.
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-            <a href="/Users/mridulsharma/Desktop/website/my-app/public/assets/image.png" download="Mridul_Sharma_CV.pdf">
+            <a href="https://drive.usercontent.google.com/u/0/uc?id=1hN0DhubBBdvubyKcqOiYXaMfC3eyPplw&export=download" download="Mridul_Sharma_CV.pdf">
               <Button
               variant='outline'
               size='lg'
