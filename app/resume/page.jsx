@@ -97,7 +97,7 @@ const Resume = () => {
                             <TabsTrigger value="skills" className="rounded-xl bg-white/20 p-3 text-center shadow-md hover:bg-white/30 transition-all duration-300">Skills</TabsTrigger>
                         </TabsList>
 
-                        <div className="min-h-[70vh] w-full xl:flex-1 bg-slate-900 p-6 rounded-lg shadow-md">
+                        <div className="min-h-[70vh] w-full xl:flex-1 bg-slate-950 p-6 rounded-lg shadow-md">
                             <TabsContent value="about" className="w-full">
                                 <motion.div variants={stagger}>
                                     <motion.h2 variants={fadeInUp} className="text-4xl font-bold mb-4 text-blue-500">{about.title}</motion.h2>
